@@ -1,0 +1,23 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  text-align: center;
+
+  
+}
+
+.active{
+  color:red ;
+  text-decoration: none;
+  margin: 1rem;
+  
+}
+
+.barra{
+  display: flex;
+  justify-content: space-between;
+  background-color: gray;
+  
+  
+}
